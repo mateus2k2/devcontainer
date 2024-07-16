@@ -1,0 +1,5 @@
+{
+    "dotfiles.repository": "https://github.com/mateus2k2/dotfiles",
+    "dotfiles.targetPath": "~/dotfiles",
+    "dotfiles.installCommand": "install.sh"
+}
