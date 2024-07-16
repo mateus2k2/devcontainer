@@ -53,5 +53,5 @@
 		}
 	  }
 	},
-	"runArgs": ["--name", "${localEnv:USER}_devcontainer"]
+	"runArgs": ["--name", "${localEnv:USER}_devcontainer", "--gpus", "all"]
   }
